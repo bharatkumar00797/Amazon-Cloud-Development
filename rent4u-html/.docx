@@ -12,7 +12,7 @@ At the end of the communication, the secret key is discarded and a new one is ge
 This process ensures that data transmitted over HTTPS is encrypted and secure, and that the identity of the website and server are verified. This helps to prevent unauthorized access, protect sensitive information, and ensure the integrity of the data being transmitted over the internet.
 
 htpps
-  --
+  https://github.com/bharatkumar00797/Amazon-Cloud-Development/blob/08236642f9abceb7c9811e8526b18deeec5e52ed/rent4u-html/githubuserreferencediagram.png
 
 In this diagram, the client requests to access a secure website and the server responds with a digital certificate, which contains information about the identity of the website and the public key of the server. The client verifies the authenticity of the certificate by checking it against a trusted third-party certificate authority (CA).
 
