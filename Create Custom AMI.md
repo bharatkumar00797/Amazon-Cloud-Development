@@ -28,7 +28,7 @@ In this demo, you will create an AMI from a custom EC2 instance that has the Ngi
 
 •	Amazon EC2
 
-## Commands used in the video tutorial:
+## Commands used in the to begin UI:
 
 ### Login as a root user: 
 sudo su -
