@@ -1,6 +1,6 @@
 # Commands used to host MySql Server on AWS EC2 Instance
 
-## Step 1: Update the system
+## Step 1: Update the system   
 
 sudo apt update
 
