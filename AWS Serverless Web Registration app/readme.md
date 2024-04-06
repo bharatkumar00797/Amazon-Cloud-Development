@@ -28,3 +28,12 @@ Runtime: Python 3.9
 ## Step 5: Create API Gateway and Enable CORS
 
 ## Step 6: Test the Project
+
+### Enable CORS: 
+
+```sh
+Access-Control-Allow-Origin: '*'
+Access-Control-Allow-Headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
+Access-Control-Allow-Methods: POST
+
+```
