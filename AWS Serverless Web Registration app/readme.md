@@ -23,3 +23,4 @@ Function Name: registration-form-function
 Runtime: Python 3.9
 
 ```
+## Step 4: Write Lambda Function
