@@ -31,6 +31,8 @@ Runtime: Python 3.9
 
 ### Enable CORS: 
 
+## Step 5: Test the Application
+
 ```sh
 Access-Control-Allow-Origin: '*'
 Access-Control-Allow-Headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
