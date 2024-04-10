@@ -6,7 +6,7 @@
 - mkdir temp
 - cd temp
 - wget https://www.free-css.com/assets/files/free-css-templates/download/page294/rent4u.zip
-unzip complex.zip
+- unzip complex.zip
 cd complex
 ls -lrt
 mv * /var/www/html
