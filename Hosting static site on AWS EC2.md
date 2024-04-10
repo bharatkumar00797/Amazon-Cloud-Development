@@ -1,5 +1,5 @@
-Commands that were used in order to Host the website | Start and Enabeling Server.
-sudo su -
+- Commands that were used in order to Host the website | Start and Enabeling Server.
+- sudo su -
 yum update -y
 yum install -y httpd
 systemctl status httpd
