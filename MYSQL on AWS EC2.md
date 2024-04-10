@@ -18,18 +18,18 @@
 
 ## Step 5: Update the password for the MySql Server
 
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'place-your-password-here';
+- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'place-your-password-here';
 
 FLUSH PRIVILEGES;
 
 ## Step 6: Test the MySql server if it is working by running sample sql queries
 
-CREATE DATABASE mysql_test;
+- CREATE DATABASE mysql_test;
 
-USE mysql_test;
+- USE mysql_test;
 
-CREATE TABLE table1 (id INT, name VARCHAR(45));
+- CREATE TABLE table1 (id INT, name VARCHAR(45));
 
-INSERT INTO table1 VALUES(1, 'Virat'), (2, 'Sachin'), (3, 'Dhoni'), (4, 'ABD');
+- INSERT INTO table1 VALUES(1, 'Virat'), (2, 'Sachin'), (3, 'Dhoni'), (4, 'ABD');
 
-SELECT * FROM table1;
+- SELECT * FROM table1;
