@@ -6,15 +6,15 @@
 
 ## Step 2: Install MySql
 
-sudo apt install mysql-server
+- sudo apt install mysql-server
 
 ## Step 3: Check the Status of MySql (Active or Inactive)
 
-sudo systemctl status mysql
+- sudo systemctl status mysql
 
 ## Step 4: Login to MySql as a root
 
-sudo mysql
+- sudo mysql
 
 ## Step 5: Update the password for the MySql Server
 
