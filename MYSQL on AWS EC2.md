@@ -2,7 +2,7 @@
 
 ## Step 1: Update the system   
 
-sudo apt update
+- sudo apt update
 
 ## Step 2: Install MySql
 
