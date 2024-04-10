@@ -2,8 +2,8 @@
 - sudo su -
 - yum update -y
 - yum install -y httpd
-systemctl status httpd
-mkdir temp
+- systemctl status httpd
+- mkdir temp
 cd temp
 wget https://www.free-css.com/assets/files/free-css-templates/download/page294/rent4u.zip
 unzip complex.zip
