@@ -3,7 +3,7 @@ An Amazon Machine Image (AMI) contains all the information necessary to boot an 
 
 AWS Auto Scaling Groups require self-configurable instances in order to automatically scale up or down to match your application requirements. Your AMI serves as the basic unit of deployment, enabling the Auto Scaling Group to dynamically boot new custom instances as you need them.
 
-AMIs can be backed by Amazon Elastic Block Storage (EBS) or instance store volumes. When an instance is launched using an EBS-backed AMI, the root volume for the instance is created using an EBS snapshot. When an instance is launched using an instance store-backed AMI, the root volume is created using a template stored in Amazon S3.
+AMIs can be backed by Amazon Elastic Block Storage (EBS) or instance store volumes. When an instance is launched using an EBS-backed AMI,the root volume for the instance is created using an EBS snapshot. When an instance is launched using an instance store-backed AMI, the root volume is created using a template stored in Amazon S3.
 
 In this demo, you will create an AMI from a custom EC2 instance that has the Nginx web server preinstalled.
 
